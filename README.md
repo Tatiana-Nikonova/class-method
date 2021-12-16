@@ -1,0 +1,1 @@
+##   class-method    [![Build status](https://ci.appveyor.com/api/projects/status/29cybqoga03l8a31?svg=true)](https://ci.appveyor.com/project/Tatiana-Nikonova/class-method)
